@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasetousa
+- 👋 Hi, I’m Vasil Vasilev
 - 👀 I’m interested in programming, cyber security, software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects
